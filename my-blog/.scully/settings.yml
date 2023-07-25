@@ -1,0 +1,10 @@
+identifier: l7k7i29452scbfqf
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: /Users/silviatrejo/Dev/Angular/SPA_AppDemo/my-blog
+distFolder: dist/my-blog
+outDir: /Users/silviatrejo/Dev/Angular/SPA_AppDemo/my-blog/dist/static
+handle404: ''
