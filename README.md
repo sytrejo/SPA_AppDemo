@@ -164,4 +164,3 @@ Answer:
     Another difference between a standard Angular application and a Scully one is that Scully provides additional tools and libraries for generating and optimizing static content. For example, Scully provides plugins for generating sitemaps, optimizing images, and pre-rendering dynamic content. 
 
     
-
